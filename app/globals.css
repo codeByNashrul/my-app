@@ -113,9 +113,6 @@
 }
 
 @layer base {
-  :root{
-    --radius: 0.55rem
-  }
   * {
     @apply border-border outline-ring/50;
   }
